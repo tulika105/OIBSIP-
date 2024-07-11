@@ -1,5 +1,5 @@
 I have completed Task 1 of my internship with Oasis Infobyte. The task involved classifying Iris flowers into three species setosa, versicolor and virginica based on their sepal and petal dimensions.
-Methodology:
+# Methodology:
 1) Imported necessary packages and libraries for the iris dataset.
 2) Preprocessed the data such as handling duplicate, missing values etc. and visualised the target variable through count plot and continuous variables such as petallength, petalwidth, sepallength and sepalwidth through box plot.
 3) Applied correlation analysis and pair plot to understand the relationships between the variables.
