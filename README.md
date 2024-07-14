@@ -14,5 +14,14 @@ The task involved analysing unemployment in India during the pandemic from 2019 
 2) Meghalaya being the only region whose unemployment rate is approximately 5% during the pandemic.
 3) During Covid-19, Urban area witnessed more rates of unemployment than Rural area.
 4) Before the pandemic in 2019, average unemployment rate was below 10% from May to Dec whereas during the pandemic in 2020, unemployment rate increased from 11% to 25% from 
-   March to May and then it is decreased to 12% during the month of June. 
+   March to May and then it is decreased to 12% during the month of June.
+# Task 3:
+The task involved predicting sales based on advertising spend on TV, Radio and Newspaper using advertising dataset.
+# Methodology:
+1) Imported necessary packages and libraries for the advertising dataset.
+2) Preprocessed the data such as handling duplicate, missing values etc. and visualised the features through histogram.
+3) Applied correlation analysis through heatmap to understand the relationships between the variables and scaled the continuous variables through min max scaling.
+4) Used Linear Regression Algorithm to fit the model and achieved a R2 score of approximately 90%.
+5) Applied ensemble techniques such as Random Forest to improve the accuracy of the model and achieved a R2 score of more than 95%.
+6) Visualised Actual vs Predicted sales through Distribution Plot.
 
